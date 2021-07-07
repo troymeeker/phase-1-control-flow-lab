@@ -1,11 +1,17 @@
 function scuberGreetingForFeet(){
-  // Write your code here!
+  if(number>=400){
+return 'This one is on me!'
+  }else if(){
+return 'This one is gonna cost you'
+  }
 }
 
 function ternaryCheckCity(){
-  // Write your code here!
+  return blank===''?  :
 }
 
 function switchOnCharmFromTip(){
-  // Write your code here!
+  switch(){
+    case 
+  }
 }
